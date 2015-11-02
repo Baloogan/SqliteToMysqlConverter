@@ -1,0 +1,13 @@
+bin/
+obj/
+.dropbox
+desktop.ini
+/packages/
+!packages/repositories.config
+/SpaceEmpire/doxygen/
+/Planet_libnoise/Debug/
+/Planet_libnoise/Release/
+/Planet_libnoise/Rel2/
+/Rel2/
+*.sdf
+*.opensdf
